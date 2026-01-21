@@ -1,0 +1,7 @@
+*git__pycache__/ 
+*.pyc 
+*.DS_Store 
+*.env 
+logs
+*Thumbs.db 
+data
